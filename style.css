@@ -1,0 +1,13 @@
+#container{
+
+    border: solid 40px ;
+    border-color: rgb(143, 143, 231);
+    text-align-last: left;
+    padding-left: 50px;
+    
+
+}
+#button{
+    color: rgb(40, 40, 166);
+    
+}
